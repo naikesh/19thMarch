@@ -12,7 +12,7 @@ public abstract class AbstractStudy {
 	public void test1() {
 		System.out.println("hi this is test1 method");
 	}
-	
+	//i made this change for git study purpose
 	public void test3() {
 		System.out.println("hi this is test2 method");
 	}
